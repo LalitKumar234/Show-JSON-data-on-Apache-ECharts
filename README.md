@@ -7,10 +7,9 @@ To run this project
 2. cd into the new folder and type $ yarn install
 3. To Run the react project $ yarn start
 
+Here is the JSON data: src/data.js
 
 This is how Scatter Plot will look like 
-
-Here is the JSON data: src/data.js
 
 Scatter Plot: The scatter plot shows Hue on the Y-Axis and colour intensity on the X-Axis
 
